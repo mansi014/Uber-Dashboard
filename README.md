@@ -1,4 +1,4 @@
- Uber Data Analysis Dashboard (Power BI)
+# Uber Data Analysis Dashboard (Power BI)
 
 This project is a **Power BI-based dashboard** that provides an analytical view of **Uber bookings**, **revenues**, **distances**, and **performance metrics** across various locations.  
 It is designed to support stakeholders in monitoring trends, understanding rider and driver behavior, and making data-driven operational decisions.

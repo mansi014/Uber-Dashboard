@@ -5,7 +5,7 @@ The dashboard is designed to help stakeholders understand business performance, 
 
 ## Dashboard Overview
 
-![Uber Dashboard](<img width="1429" height="787" alt="Screenshot 2025-11-01 132543" src="https://github.com/user-attachments/assets/6411bc92-19dc-40b0-a496-a00f2576b868" />
+!(<img width="1429" height="787" alt="Screenshot 2025-11-01 132543" src="https://github.com/user-attachments/assets/6411bc92-19dc-40b0-a496-a00f2576b868" />
 )
 
 ### Overview Analysis
